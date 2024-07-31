@@ -17,9 +17,9 @@ The data format matches the export file formats of Somnomedics PSG analysis soft
 ## Contributors and affliations
 
 #### Definition creation & Documentation of the Sleep statistics
-*Prof. Derk-Jan Dijk*, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
-*Dr. Ciro della Monica*, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
-*Marta Messina Pineda*, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
+*Prof. Derk-Jan Dijk, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
+*Dr. Ciro della Monica, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
+*Marta Messina Pineda, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
 
 #### Original SAS code 
 *Lucinda Granger*, Department of Clinical and Experimental Medicine, University of Surrey, Guildford, UK [Creator of Legacy code against which the SSRC_SleepStatistics was evaluated against]
