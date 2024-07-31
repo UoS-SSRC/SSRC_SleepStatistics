@@ -17,12 +17,12 @@ The data format matches the export file formats of Somnomedics PSG analysis soft
 ## Contributors and affliations
 
 #### Definition creation & Documentation of the Sleep statistics
-*Prof. Derk-Jan Dijk, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
-*Dr. Ciro della Monica, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
-*Marta Messina Pineda, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
+* Prof. Derk-Jan Dijk, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
+* Dr. Ciro della Monica, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
+* Marta Messina Pineda, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
 
 #### Original SAS code 
-*Lucinda Granger*, Department of Clinical and Experimental Medicine, University of Surrey, Guildford, UK [Creator of Legacy code against which the SSRC_SleepStatistics was evaluated against]
+* Lucinda Granger, Department of Clinical and Experimental Medicine, University of Surrey, Guildford, UK [Creator of Legacy code against which the SSRC_SleepStatistics was evaluated against]
 
 ## Previous Works related to the SSRC sleep statistics
 -	Revell VL, Della Monica C, Mendis J, Hassanin H, Halter RJ, Chaplan SR, Dijk DJ. Effects of the selective orexin-2 receptor antagonist JNJ-48816274 on sleep initiated in the circadian wake maintenance zone: a randomised trial. Neuropsychopharmacology. 2022. doi: 10.1038/s41386-021-01175-3
