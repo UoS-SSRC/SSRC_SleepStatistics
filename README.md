@@ -11,7 +11,7 @@ The Code and its description can be found in the [src](https://github.com/KiranK
 Matlab 2021 or above
 
 ## Example Data
-The example data for the Marker and hypnograms txt files can be found in: [exampledata](https://github.com/KiranKGR/SSRC_SleepStatistics/tree/55517b859229ea1ac1bb4316c48f47f413487214/exampledata)
+The example data for the Marker and hypnograms txt files can be found in: [exampledata](https://github.com/KiranKGR/SSRC_SleepStatistics/tree/947ee5aa719181079ed5e1d261f63defb6295fa0/exampledata)
 
 The data format matches the export file formats of Somnomedics PSG analysis software - Domino v3. 
 
