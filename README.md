@@ -4,7 +4,7 @@
 SSRC_SleepStatistics Copyright (C) 2024 Kiran K G Ravindran and contributors. Refer to the License.txt for more details.
 
 ## Overview
-This repository contains the documentation and matlab scripts for generating the SSRC Polysomnography sleep statistics. The complete list of the sleep statistics and the corresponding definitions can be found in the "Polysomnography Data Extraction and Analysis Specification" documentation:  [Documentation](https://github.com/KiranKGR/SSRC_SleepStatistics/tree/55517b859229ea1ac1bb4316c48f47f413487214/documentation)
+This repository contains the documentation and matlab scripts for generating the SSRC Polysomnography sleep statistics. The complete list of the sleep statistics and the corresponding definitions can be found in the "Polysomnography Data Extraction and Analysis Specification": [documentation](https://github.com/KiranKGR/SSRC_SleepStatistics/tree/55517b859229ea1ac1bb4316c48f47f413487214/documentation)
 
 The Code and its description can be found in the [src](https://github.com/KiranKGR/SSRC_SleepStatistics/tree/55517b859229ea1ac1bb4316c48f47f413487214/exampledata) folder
 ## Requirements 
