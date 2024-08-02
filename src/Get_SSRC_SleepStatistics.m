@@ -785,3 +785,8 @@ elseif type==1
     Out.Event_table=Event_table;
 end
 end
+
+%% convert Variable to Name
+function out = getVarName(var)
+out = inputname(1);
+end
