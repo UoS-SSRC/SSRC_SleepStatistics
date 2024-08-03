@@ -30,7 +30,11 @@ for iloop=1:length(Marker_files)
     % Get Hypnogram
     [Time_sleep,Hypnogram]=Get_Hypnogram(Marker_info,fullfile(data_path,Hypnogram_files(iloop)));
     % Get the statistics
+    try
     Out_Sleep_Statistics_Full=Get_SSRC_SleepStatistics(Time_sleep,Hypnogram,Marker_info);
+    catch
+    disp("FILE SKIPPED");
+    end
     % Pool the data in a table for all files
     Sleep_Statistics=[Sleep_Statistics;Get_SM_row(Out_Sleep_Statistics_Full)];
 end
