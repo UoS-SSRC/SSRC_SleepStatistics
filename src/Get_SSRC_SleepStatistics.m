@@ -64,7 +64,11 @@ if type==0
     if label(ind_lon-1)~=5 && label(ind_lon)==5
         adj=0;
     end
+    try
     L_label=label(ind_loff:ind_lon-adj);
+    catch
+     error("Marker info and the hyppnogram timecourse dont match. Check the Marker info")
+    end
     %
     num_L_stages=length(L_label);
     if num_L_stages<960
@@ -514,7 +518,13 @@ elseif type==1
     if label(ind_lon-1)~=5 && label(ind_lon)==5
         adj=0;
     end
+    %
+    try
     L_label=label(ind_loff:ind_lon-adj);
+    catch
+     error("Marker info and the hyppnogram timecourse dont match. Check the Marker info")
+    end
+    %
     num_L_stages=length(L_label);
     if num_L_stages<960
         disp(strcat('Caution:',newline));
