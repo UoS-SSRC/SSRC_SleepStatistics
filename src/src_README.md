@@ -19,7 +19,7 @@ SSRC_SleepStatistics Copyright (C) 2024 Kiran K G Ravindran and contributors. Re
     Type 1 - Reduced function - Does not generate hourly estimates - works for shorter Hypnograms
     
 3. "RunLength" - Support function used for estimation run lengths of sleep stage segments. REF: Jan (2024). RunLength (https://www.mathworks.com/matlabcentral/fileexchange/41813-runlength), MATLAB Central File Exchange. Retrieved June 1, 2024.
-
+4. "Example_SSRC_sleep_statistics.xlsx" - Output file generator from the example data.
 ## Citation
 Refer the main page of the SSRC_SleepStatistics Repository
 
