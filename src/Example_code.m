@@ -23,6 +23,8 @@ Marker_files=files(contains(files,"Marker"));
 Hypnogram_files=files(contains(files,"Hypnogram"));
 Sleep_Statistics=[];
 for iloop=1:length(Marker_files)
+    % Display file name
+    disp(Marker_files(iloop))
     % Get Marker info
     Marker_info=Get_Markers(fullfile(data_path,Marker_files(iloop)));
     % Get Hypnogram
