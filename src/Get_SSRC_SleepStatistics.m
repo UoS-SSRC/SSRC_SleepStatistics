@@ -51,7 +51,7 @@ if type==0
         ind_lon=ind_lon+1;
     end
     % adjust for lights on is over 8 hours and its an artefact, move light on index forward
-    % based on input from Lucinda and CRC358
+    % based on input/rule obtained from the statistician involved in the creation of the legacy software
     if ind_lon>ind_loff+960
         while label(ind_lon)==6
             ind_lon=ind_lon-1;
@@ -505,7 +505,7 @@ elseif type==1
         ind_lon=ind_lon+1;
     end
     % adjust for lights on is over 8 hours and its an artefact move light on index forward
-    % based on input from Lucinda and CRC358
+    % based on input/rule obtained from the statistician involved in the creation of the legacy software
     if ind_lon>ind_loff+960
         while label(ind_lon)==6
             ind_lon=ind_lon-1;
