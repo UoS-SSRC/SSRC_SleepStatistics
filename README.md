@@ -30,6 +30,6 @@ The data format matches the export file formats of Somnomedics PSG analysis soft
 
 ## Citation
 For any use of SSRC_SleepStatistics please cite:
-[![DOI](https://zenodo.org/badge/836184739.svg)](https://zenodo.org/doi/10.5281/zenodo.13224972)
+* Kiran K G Ravindran and Contributors, ‘SSRC_SleepStatistics’, V1.0 [Computer Software]. Zenodo, Aug. 05, 2024. doi: [![DOI](https://zenodo.org/badge/836184739.svg)](https://zenodo.org/doi/10.5281/zenodo.13224972)
 
 
