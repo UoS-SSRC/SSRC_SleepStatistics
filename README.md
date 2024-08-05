@@ -22,7 +22,7 @@ The data format matches the export file formats of Somnomedics PSG analysis soft
 * Marta Messina Pineda, Surrey Sleep Research Centre, University of Surrey, Guildford, UK
 
 #### Original SAS code 
-* Lucinda Granger, Department of Clinical and Experimental Medicine, University of Surrey, Guildford, UK [Creator of Legacy code against which the SSRC_SleepStatistics was evaluated]
+* Lucinda Granger, Department of Clinical and Experimental Medicine, University of Surrey, Guildford, UK [Creator of Legacy software against which the SSRC_SleepStatistics was evaluated]
 
 ## Previous Works related to the SSRC sleep statistics
 -	Revell VL, della Monica C, Mendis J, Hassanin H, Halter RJ, Chaplan SR, Dijk DJ., "Effects of the selective orexin-2 receptor antagonist JNJ-48816274 on sleep initiated in the circadian wake maintenance zone: a randomised trial", Neuropsychopharmacology, 2022. (DOI: https://doi.org/10.1038/s41386-021-01175-3)
